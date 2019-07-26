@@ -1,0 +1,39 @@
+.text-course {
+    color: #2196F3;
+}
+.text-course span {
+    padding-bottom: 10px;
+    border-bottom: 2px solid #2196F3;
+} 
+.course-img {
+    margin-bottom: 40px;
+}
+.course-img img {
+    width: 100%;
+}
+.course-item {
+    position: relative;
+}
+.course-content {
+    position: absolute;
+    bottom: 0;
+    height: 50px;
+    line-height: 50px;
+    background: #999;
+}
+.course-content a {
+    margin-left: 70px;
+    color: #000;
+    font-family: inherit;
+}
+.course-content button {
+    margin-left: 160px;
+    height: 50px;
+    background: #2196F3;
+    border: none;
+    color: #fff;
+}
+
+.MuiGrid-root.MuiGrid-item.MuiGrid-grid-xs-12.MuiGrid-grid-sm-6 {
+    padding: 12px 40px;
+}

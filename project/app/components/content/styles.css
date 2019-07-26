@@ -1,0 +1,18 @@
+.maincontent{
+    width: 100%;
+    text-align: center;
+    background-color: #2196F3;
+    color: #fff;
+}
+.centername {
+    font-size: 30px;
+}
+.maincontent h2 {
+    font-size: 20px;
+    padding: 35px 0 0;
+}
+.maincontent h3 {
+    font-size: 16px;
+    margin: 0;
+    padding: 20px;
+}

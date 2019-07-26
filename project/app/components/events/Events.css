@@ -1,0 +1,41 @@
+.events {
+    background: #2196F3;
+    height: 700px;
+}
+h2 {
+    margin: 0;
+    padding: 35px 0 50px;
+    text-align: center;
+    color: #fff;
+    font-weight: bold;
+    font-family: inherit;
+    font-size: 28px;
+}
+.card-text span {
+    border-bottom: 2px solid;
+    padding: 0 0 10px;
+}
+.cards {
+    float: left;
+    padding-left: 55px;
+}
+.card-bg {
+    height: 280px;
+}
+button.MuiButtonBase-root.MuiButton-root.btn-learn.MuiButton-text.MuiButton-textPrimary.MuiButton-sizeSmall {
+    margin: auto;
+    background: #2196F3;
+    color: #fff;
+}
+button.MuiButtonBase-root.MuiButton-root.btn-learn.MuiButton-text.MuiButton-textPrimary.MuiButton-sizeSmall:hover {
+    background: rgb(21, 114, 190);
+}
+.btn-events {
+    text-align: center;
+}
+.btn-events button {
+    border-radius: 5px;
+    margin: 72px 0 0;
+    background: #fff;
+    padding: 10px 20px;
+}

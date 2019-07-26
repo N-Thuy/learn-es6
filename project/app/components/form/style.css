@@ -1,0 +1,65 @@
+.form-img img {
+    width: 100%;
+}
+.MuiPaper-root.MuiPaper-elevation1.makeStyles-paper-204.MuiPaper-rounded {
+    background: none;
+    box-shadow: none;
+}
+.form {
+    background-color: #f5f6f8;
+    padding-top: 70px;
+}
+
+.form-item {
+    border: 1px solid #2196F3;
+    border-radius: 5px;
+    position: relative;
+    background: #f5f6f8;
+    box-shadow: none;
+    margin: 20px;
+    color: #2196F3;
+}
+.form-gr {
+    padding-bottom: 50px;
+}
+span.material-icons {
+    font-size: 60px;
+    color: #2196F3;
+    position: absolute;
+    top: -30px;
+    left: 45%;
+    background: #f5f6f8;
+}
+h3 {
+    padding: 40px 0 10px;
+    font-size: 30px;
+    font-family: inherit;
+}
+p {
+    font-family: inherit;
+}
+input[type="text"] {
+    height: 33px;
+    width: 240px;
+    margin: 0 10px 20px;
+    border-radius: 5px;
+    border: none;
+    background: #2196F3;
+    /* color: #fff; */
+    padding: 5px;
+    font-size: 13px;
+}
+
+input[type="submit"] {
+    background: none;
+    border: 1px solid #2196F3;
+    background: #f5f6f8;
+    color: #2196F3;
+    border-radius: 5px;
+    padding: 5px 20px;
+    position: absolute;
+    bottom: -15px;
+    left: 33%;
+    font-weight: bold;
+    font-size: 20px;
+}
